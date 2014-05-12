@@ -9,6 +9,7 @@ namespace ZnStudio
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello GitHub");
         }
     }
 }
