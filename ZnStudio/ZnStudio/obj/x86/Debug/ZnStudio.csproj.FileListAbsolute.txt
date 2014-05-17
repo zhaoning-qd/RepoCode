@@ -1,0 +1,4 @@
+E:\Git\RepoCode\ZnStudio\ZnStudio\bin\Debug\ZnStudio.exe
+E:\Git\RepoCode\ZnStudio\ZnStudio\bin\Debug\ZnStudio.pdb
+E:\Git\RepoCode\ZnStudio\ZnStudio\obj\x86\Debug\ZnStudio.exe
+E:\Git\RepoCode\ZnStudio\ZnStudio\obj\x86\Debug\ZnStudio.pdb
